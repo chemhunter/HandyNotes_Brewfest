@@ -1,0 +1,12 @@
+## Interface: 110002
+## Title: HandyNotes_Brewfest
+## Notes: Marks the locations of Achievement aRoundOntheHouse of Brewfest on the worldmap and minimap.
+## Version: v1.0.0
+## X-Category: Map & Minimap
+## SavedVariables: HandyNotes_BrewfestDB
+## Dependencies: HandyNotes
+## IconTexture: 133784
+
+localization\locales.xml
+Core.lua
+Points.lua
